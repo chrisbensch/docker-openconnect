@@ -1,6 +1,7 @@
-FROM alpine:3.7
+FROM alpine:3.10.3
 
 MAINTAINER MarkusMcNugen
+# Forked from MarkusMcNugen
 # Forked from TommyLau for unRAID
 
 VOLUME /config
