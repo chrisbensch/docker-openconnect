@@ -1,6 +1,6 @@
 FROM alpine:3.10.3
 
-MAINTAINER MarkusMcNugen
+LABEL maintainer="chris.bensch@gmail.com"
 # Forked from MarkusMcNugen
 # Forked from TommyLau for unRAID
 
